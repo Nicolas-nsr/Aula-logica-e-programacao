@@ -20,6 +20,7 @@ function realizarSomaDosCamposDaTela(){
     const resultado = SomarNumeros(valor1, valor2);
     print = CaixaResultado(resultado);
 }
+
 module.exports = {
     somarNumeros
 }
